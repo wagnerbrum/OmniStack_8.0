@@ -1,1 +1,0 @@
-Desenvolvimento da parte do backend do Tindev (Aplicação da Omni Stack 8.0) 

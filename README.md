@@ -1,4 +1,4 @@
-#Omni Stack 8.0
+# Omni Stack 8.0
 
 Repositorio com o projeto feito na semana Omni stack 8.0.
 
@@ -6,6 +6,6 @@ O projeto é o Tindev, uma forma de tinder para desenvolvedores encontrarem pess
 Os dados ficam por conta da API publica do GitHub.
 
 - [x] Backend - NodeJS + Express + API Github
-- [ ] Frontend Web - React
+- [x] Frontend Web - React
 - [ ] Mobile - React Native
 - [ ] Real Time - Socket.io
