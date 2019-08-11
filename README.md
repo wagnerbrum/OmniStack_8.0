@@ -7,5 +7,5 @@ Os dados ficam por conta da API publica do GitHub.
 
 - [x] Backend - NodeJS + Express + API Github
 - [x] Frontend Web - React
-- [ ] Mobile - React Native
+- [x] Mobile - React Native
 - [ ] Real Time - Socket.io
